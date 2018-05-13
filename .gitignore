@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+/node_modules
+/temp
+/build
+=======
+node_modules
+temp.txt
+build
+>>>>>>> 59ab1d585dcd2dc5877705cf717edbc0a4f02bd8
