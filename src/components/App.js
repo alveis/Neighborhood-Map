@@ -21,12 +21,6 @@ class App extends Component {
     "latitude": 6.87527754,
     "longitude": 7.41594869
   },
-  {
-    "name": "Franco pitch",
-    "type": "Football pitch",
-    "latitude": 7.40642148,
-    "longitude": 6.86820476
-  },
    {
     "name": "Diamond Bank",
     "type": "Bank-ATM Point",
